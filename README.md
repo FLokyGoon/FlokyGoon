@@ -1,17 +1,16 @@
-### Hi there 👋
-
-👋 Hi, I'm Florestan!
+### 👋 Hi there, I'm Florestan!
 
 🎓 I'm a software development student at 42 School, where I dive deep into web development, blockchain, and cybersecurity. I'm currently on the lookout for internship opportunities!
 
 🌟 Technical Skills:
 
   Programming Languages:
-  C 🔠
+  * C 🔠  
   C++ 🔡
   Python 🐍
   JavaScript 📜
   Bash 🖥️
+  
   Tools and Technologies:
   Git 🔗
   Docker 🐳
