@@ -21,5 +21,5 @@ I love tackling complex problems and turning ideas into real, functioning soluti
 
 📫 **Contact Me**:
 
-* LinkedIn: [![LinkedIn](https://www.linkedin.com/in/florestan-bardeau/)
+* LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florestan-bardeau/)
 * Email: ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) `Florestan.bardeau@protonmail.com`
