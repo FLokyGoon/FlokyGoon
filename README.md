@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**FLokyGoon/FlokyGoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Florestan!
 
-Here are some ideas to get you started:
+🎓 I'm a software development student at 42 School, where I dive deep into web development, blockchain, and cybersecurity. I'm currently on the lookout for internship opportunities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Technical Skills:
+
+  Programming Languages:
+  C 🔠
+  C++ 🔡
+  Python 🐍
+  JavaScript 📜
+  Bash 🖥️
+  Tools and Technologies:
+  Git 🔗
+  Docker 🐳
+  Cloud Technologies ☁️
+  Web Servers 💻
+
+I love tackling complex problems and turning ideas into real, functioning solutions. If you're interested in collaborating or have an opportunity that fits, don't hesitate to reach out!
